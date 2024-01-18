@@ -19,17 +19,3 @@ Welcome to My Portfolio! This web application serves as a personal space for sho
 ### 5. **Responsive Layout**
    - Ensure a seamless experience for visitors on various devices with a responsive and adaptive layout.
 
-### 6. **Contact Information**
-   - Provide multiple ways for visitors to get in touch, such as email, social media links, or a contact form.
-
-### 7. **Resume/CV Integration**
-   - Include a downloadable version of your resume or CV for easy access.
-
-### 8. **Dynamic Content**
-   - Utilize JavaScript to dynamically update content, providing a smooth and modern browsing experience.
-
-### 9. **Blog or Updates Section**
-   - Share your thoughts, updates, or articles related to your field to demonstrate ongoing engagement.
-
-### 10. **Customization Options**
-   - Personalize your portfolio easily by modifying the HTML, CSS, and JavaScript files.
