@@ -33,6 +33,8 @@ Welcome to My Portfolio! This web application serves as a personal space for sho
 ### 10. **Customization Options**
    - Personalize your portfolio easily by modifying the HTML, CSS, and JavaScript files.
 <img width="1440" alt="Screenshot 2024-04-22 at 7 48 21 PM" src="https://github.com/Nagaraja-Kamatar/My-Portfolio/assets/145822414/3a1ee949-6f22-498f-af93-3ab81b2aecfb">
+<img width="1440" alt="Screenshot 2024-04-22 at 7 48 35 PM" src="https://github.com/Nagaraja-Kamatar/My-Portfolio/assets/145822414/5ebf1ff1-92f5-4732-9d95-b640d1a87095">
+
 
 
 
