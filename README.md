@@ -147,15 +147,7 @@ This project is licensed under the **MIT License**. You may modify, distribute, 
 ---
 
 
-<img width="1438" height="820" alt="Screenshot 2025-11-17 at 11 28 53 PM" src="https://github.com/user-attachments/assets/4653c269-c4a7-4fb5-bc08-378f451b1e79" />
 
-<img width="1427" height="819" alt="Screenshot 2025-11-17 at 11 29 07 PM" src="https://github.com/user-attachments/assets/876be6e9-2aee-4ed1-9940-28b23847b69c" />
-
-<img width="1437" height="610" alt="Screenshot 2025-11-17 at 11 29 22 PM" src="https://github.com/user-attachments/assets/04acfab8-fc97-4497-aacf-d3bf73ba0a3a" />
-
-<img width="1437" height="808" alt="Screenshot 2025-11-17 at 11 29 45 PM" src="https://github.com/user-attachments/assets/9235ef2f-36e9-4fd6-bd36-c43593892b98" />
-
-<img width="1440" height="818" alt="Screenshot 2025-11-17 at 11 29 55 PM" src="https://github.com/user-attachments/assets/aa3d7168-030f-41d8-977a-7aa5430508e1" />
 
 
 
