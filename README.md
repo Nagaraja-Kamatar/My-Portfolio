@@ -140,11 +140,7 @@ Feel free to reach out for collaboration, opportunities, or feedback!
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License**. You may modify, distribute, and use it for both personal and commercial purposes.
-
----
 
 
 
