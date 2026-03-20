@@ -138,7 +138,7 @@ Feel free to reach out for collaboration, opportunities, or feedback!
 * **LinkedIn:** https://www.linkedin.com/in/nagaraja-k-317147239/
 * **GitHub:** https://github.com/Nagaraja-Kamatar
 
----
+
 
 
 
