@@ -68,7 +68,9 @@ $(document).ready(function(){
 
     var statsAnimated = false;
     $(window).on('scroll', function () {
-        var aboutOffset = $('.about-stats').offset().top - $(window).height();
+        var $aboutStats = $('.about-stats');
+        if ($aboutStats.length === 0) return;
+        var aboutOffset = $aboutStats.offset().top - $(window).height();
         if (!statsAnimated && $(window).scrollTop() > aboutOffset) {
             animateCounters();
             statsAnimated = true;
